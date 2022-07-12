@@ -1,0 +1,37 @@
+student,curriculum,subject,score,year
+a,IB,Mathematics,5,2000
+a,IB,English,6,2000
+a,IB,History,7,2000
+a,IB,Physics,5,2000
+a,IB,Geography,4,2000
+b,IB,Mathematics,2,2001
+b,IB,English,7,2001
+b,IB,History,4,2001
+b,IB,Physics,2,2001
+b,IB,Geography,4,2001
+c,IB,Mathematics,6,2002
+c,IB,English,7,2002
+c,IB,History,4,2002
+c,IB,Physics,3,2002
+c,IB,Geography,5,2002
+d,ISC,Mathematics,99
+d,ISC,English,89
+d,ISC,Chemistry,70
+d,ISC,Computer Science,56
+d,ISC,Physics,89
+e,ISC,Mathematics,100
+e,ISC,English,80
+e,ISC,Chemistry,70
+e,ISC,Computer Science,60
+e,ISC,Physics,50
+f,ISC,Mathematics,70
+f,ISC,English,78
+f,ISC,Chemistry,89
+f,ISC,Computer Science,90
+f,ISC,Physics,50
+g,ISC,Mathematics,60
+g,ISC,English,67
+g,ISC,Chemistry,70
+g,ISC,Computer Science,80
+g,ISC,Physics,50
+g,ISC,History,99
